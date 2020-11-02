@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "Client": {
-      "commandName": "Project",
-      "commandLineArgs": "vshybridconnection.servicebus.windows.net hc1 RootManageSharedAccessKey maI1VEJ80Fz7+u1qWgN9OQdLIypynK74aXtyXDiqhtg="
-    }
-  }
-}
